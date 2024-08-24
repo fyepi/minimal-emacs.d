@@ -201,3 +201,5 @@
 (require 'init-tree-sitter)
 
 (require 'init-clojure)
+
+(require 'init-completion)

@@ -14,3 +14,5 @@
 
 ;; Enable tooltips (hover text)
 (setq minimal-emacs-disable-tooltips nil)
+
+(setenv "LSP_USE_PLISTS" "true")
