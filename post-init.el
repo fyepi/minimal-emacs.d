@@ -197,3 +197,7 @@
 (require 'init-package)
 
 (require 'init-lsp)
+
+(require 'init-tree-sitter)
+
+(require 'init-clojure)
